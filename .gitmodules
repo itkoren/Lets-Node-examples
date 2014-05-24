@@ -1,3 +1,63 @@
 [submodule "language-additions"]
 	path = language-additions
 	url = git@github.com:itkoren/Lets-Node-exp-language-additions.git
+[submodule "callback-pattern"]
+	path = callback-pattern
+	url = git@github.com:itkoren/Lets-Node-exp-callback-pattern.git
+[submodule "event-emitter-pattern"]
+	path = event-emitter-pattern
+	url = git@github.com:itkoren/Lets-Node-exp-event-emitter-pattern.git
+[submodule "modules"]
+	path = modules
+	url = git@github.com:itkoren/Lets-Node-exp-modules.git
+[submodule "modules-scope"]
+	path = modules-scope
+	url = git@github.com:itkoren/Lets-Node-exp-modules-scope.git
+[submodule "core-modules"]
+	path = core-modules
+	url = git@github.com:itkoren/Lets-Node-exp-core-modules.git
+[submodule "external-modules"]
+	path = external-modules
+	url = git@github.com:itkoren/Lets-Node-exp-external-modules.git
+[submodule "package.json"]
+	path = package.json
+	url = git@github.com:itkoren/Lets-Node-exp-package.json.git
+[submodule "data-serving"]
+	path = data-serving
+	url = git@github.com:itkoren/Lets-Node-exp-data-serving.git
+[submodule "long-running"]
+	path = long-running
+	url = git@github.com:itkoren/Lets-Node-exp-long-running.git
+[submodule "streams-pipe"]
+	path = streams-pipe
+	url = git@github.com:itkoren/Lets-Node-exp-streams-pipe.git
+[submodule "buffers"]
+	path = buffers
+	url = git@github.com:itkoren/Lets-Node-exp-buffers.git
+[submodule "callback-hell"]
+	path = callback-hell
+	url = git@github.com:itkoren/Lets-Node-exp-callback-hell.git
+[submodule "callback-hell-2"]
+	path = callback-hell-2
+	url = git@github.com:itkoren/Lets-Node-exp-callback-hell-2.git
+[submodule "handling-errors"]
+	path = handling-errors
+	url = git@github.com:itkoren/Lets-Node-exp-handling-errors.git
+[submodule "express"]
+	path = express
+	url = git@github.com:itkoren/Lets-Node-exp-express.git
+[submodule "express-app-settings"]
+	path = express-app-settings
+	url = git@github.com:itkoren/Lets-Node-exp-express-app-settings.git
+[submodule "express-routes"]
+	path = express-routes
+	url = git@github.com:itkoren/Lets-Node-exp-express-routes.git
+[submodule "connect-middlware"]
+	path = connect-middlware
+	url = git@github.com:itkoren/Lets-Node-exp-connect-middlware.git
+[submodule "express-serving-data"]
+	path = express-serving-data
+	url = git@github.com:itkoren/Lets-Node-exp-express-serving-data.git
+[submodule "unit-testing"]
+	path = unit-testing
+	url = git@github.com:itkoren/Lets-Node-exp-unit-testing.git
