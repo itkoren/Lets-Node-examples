@@ -61,3 +61,6 @@
 [submodule "unit-testing"]
 	path = unit-testing
 	url = git@github.com:itkoren/Lets-Node-exp-unit-testing.git
+[submodule "leaking"]
+	path = leaking
+	url = git@github.com:itkoren/Lets-Node-exp-leaking.git
