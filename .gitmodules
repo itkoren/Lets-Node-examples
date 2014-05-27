@@ -64,3 +64,6 @@
 [submodule "leaking"]
 	path = leaking
 	url = https://github.com/itkoren/Lets-Node-exp-leaking.git
+[submodule "stress-testing"]
+	path = stress-testing
+	url = https://github.com/itkoren/Lets-Node-exp-stress-testing.git
